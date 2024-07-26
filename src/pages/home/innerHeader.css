@@ -1,0 +1,39 @@
+.inn-headercontainer{
+    /* background-color: black; */
+    background: linear-gradient(to right, #434343, #000);
+    
+}
+.card-container{
+    display: flex;
+    height: 750px;
+    /* max-height: 300px; */
+}
+.inn-btn-div{
+    text-align: end
+}
+
+.inh-h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.inh-btn{
+    background-color: rgb(80, 232, 80);
+    height: 55px;
+    width: 150px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.lottie{
+    width: 700px;
+}
+
+.model-input{
+    width: 464px;
+    height: 38px;
+    border-radius: 4px;
+}
